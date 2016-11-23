@@ -1,2 +1,2 @@
 # GradleWebAppEclipse
-Basic Web created by Gradle plugin in Eclipse
+Basic Web app created by Gradle plugin in Eclipse
