@@ -13,3 +13,5 @@ Basic Web app built and executed by Gradle
 * You should see the login page. Login as 'John Smith' password: john1
 
 * You should be forwarded to the home page with the message Welcome!
+
+NB: you dont need eclipse to run the project
